@@ -29,8 +29,9 @@ How to print
    - 2 vertical shells
    - 4 top/bottom shells
    - no supports
- - It should something like this:
- - ![image](https://user-images.githubusercontent.com/461650/125992273-93a002bb-7cae-42f7-a388-0b0d5f31475d.png)
+ - At this point the preview should something like this:
+ - ![image](https://user-images.githubusercontent.com/461650/125992434-b91e5163-4a5f-4359-879a-02e7e4eeabea.png)
+
 
  
 Printing
