@@ -15,6 +15,8 @@ How to print
  - Load the file [keychain.3mf](keychain.3mf) in [Prusa Slicer](https://www.prusa3d.com/prusaslicer/).
  - Note the object has 5 parts. Each part can be printed in its own color.
  - Make sure you've selected the correct 3D printer. It should probably have 'MMU' in the name and is should not be the one that says 'single'.
+ ![image](https://user-images.githubusercontent.com/461650/125991612-0d7519ef-3cda-45b7-a865-d45d3a3226ee.png)
+ - Make sure the expert level is set to 'Advanced' or 'Expert'.
  - If you haven't already, this is a good time to load the filaments. Choose the extruder closest to the spool to minimize tangling and filament breaking.
  - OPTIONAL: although not required it helps to set the color of the extruder to the color of the loaded filament. This helps you visualize the outcome.
  - Now you rightclick on the extruder setting for each part. Select the extruder (1-4) that has the color loaded that you want to use for that part.
