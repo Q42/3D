@@ -29,6 +29,12 @@ How to print
    - 2 vertical shells
    - 4 top/bottom shells
    - no supports
+ - It should something like this:
+ - ![image](https://user-images.githubusercontent.com/461650/125992273-93a002bb-7cae-42f7-a388-0b0d5f31475d.png)
+
+ 
+Printing
+--------
  - When you're happy with all the settings you can export the gcode and send to the printer to print.
  - WARNING: multi-color printing is a lot more error prone. You really should whatch to make sure the first layer is laid down correctly and frequently check-up on the print. It's quite common to a 'jam' during the print, meaning that the filament gets stuck somewhere. If this happens you should abort the print ASAP and retry. 
 
