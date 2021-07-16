@@ -19,6 +19,8 @@ How to print
  - Make sure the expert level is set to 'Advanced' or 'Expert'.
  - If you haven't already, this is a good time to load the filaments. Choose the extruder closest to the spool to minimize tangling and filament breaking.
  - OPTIONAL: although not required it helps to set the color of the extruder to the color of the loaded filament. This helps you visualize the outcome.
+ - ![image](https://user-images.githubusercontent.com/461650/125991829-3cac184b-e7de-4133-8dfb-b65353e06b24.png)
+
  - Now you rightclick on the extruder setting for each part. Select the extruder (1-4) that has the color loaded that you want to use for that part.
  - Don't forget to select the proper filament setting for each extruder. Note that you probably should different types of filament (like PLA + PETG) unless you really know what your doing.
  - Finally, select the other print settings you want. If you are unsure, good defaults are: 
