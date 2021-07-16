@@ -1,13 +1,11 @@
-Keychain
-========
+3D printing the multi-color keychain
+====================================
 
-The keychain is based on the [official logo](https://logo.q42.com/).
+The keychain is based on the [official Q42 logo](https://logo.q42.com/).
 
 Requirements for 3D printing
 ============================
 You will need a 3D printer with multi-color capabilities, like the Prusa Mk2(s) or Mk3(s) and a Multi Material Upgrade, either MMU1 or MMU2(s). Maybe another type of multi-color printer will also work. YMMV.
-
-
 
 
 How to print
