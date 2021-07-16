@@ -22,7 +22,6 @@ How to print
  - ![image](https://user-images.githubusercontent.com/461650/125991829-3cac184b-e7de-4133-8dfb-b65353e06b24.png)
  - Now you rightclick on the extruder setting for each part. Select the extruder (1-4) that has the color loaded that you want to use for that part.
  - ![image](https://user-images.githubusercontent.com/461650/125991912-654f846e-5ced-42fa-a326-c2a322c3121b.png)
-
  - Don't forget to select the proper filament setting for each extruder. Note that you probably should different types of filament (like PLA + PETG) unless you really know what your doing.
  - Finally, select the other print settings you want. If you are unsure, good defaults are: 
    - Layer height: 0.2mm
