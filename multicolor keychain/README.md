@@ -16,7 +16,7 @@ How to print
  - Note the object has 5 parts. Each part can be printed in its own color.
  - Make sure you've selected the correct 3D printer. It should probably have 'MMU' in the name and is should not be the one that says 'single'.
  - ![image](https://user-images.githubusercontent.com/461650/125991612-0d7519ef-3cda-45b7-a865-d45d3a3226ee.png)
- - Make sure the expert level is set to 'Advanced' or 'Expert'.
+ - Make sure the expert level is set to 'Advanced' or 'Expert' to get access to the extruder settings.
  - If you haven't already, this is a good time to load the filaments. Choose the extruder closest to the spool to minimize tangling and filament breaking.
  - OPTIONAL: although not required it helps to set the color of the extruder to the color of the loaded filament. This helps you visualize the outcome.
  - ![image](https://user-images.githubusercontent.com/461650/125991829-3cac184b-e7de-4133-8dfb-b65353e06b24.png)
